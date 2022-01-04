@@ -1,0 +1,47 @@
+﻿  DataGenerator.cpp
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.h(38,73): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(280,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(294,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(296,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(316,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(334,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(356,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(367,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(383,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(425,17): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(425,17): warning C4244:         with
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(425,17): warning C4244:         [
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(425,17): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(425,17): warning C4244:         ]
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(426,17): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(426,17): warning C4244:         with
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(426,17): warning C4244:         [
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(426,17): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(426,17): warning C4244:         ]
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(663,17): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(663,17): warning C4244:         with
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(663,17): warning C4244:         [
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(663,17): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(663,17): warning C4244:         ]
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(664,17): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(664,17): warning C4244:         with
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(664,17): warning C4244:         [
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(664,17): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(664,17): warning C4244:         ]
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(719,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(876,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(1033,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(1189,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(1429,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(1448,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(1751,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(1769,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(2070,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(2088,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(2377,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(2497,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(2617,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(2752,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(2767,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roshanak\Documents\VS Projects\AON -current\AON\DataGenerator.cpp(2959,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  AON.vcxproj -> C:\Users\Roshanak\Documents\VS Projects\AON -current\x64\Debug\AON.exe

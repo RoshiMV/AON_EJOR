@@ -1,0 +1,2 @@
+n,M,K,U,h,rc,ecLB,ecUB,demandMean,demandSD,spMean,spSD,ciLB,ciUB,piLB,piUB,numInstances
+5,5000,10,100000,5,20,25,50,800,50,240,10,40,60,0.5,1,1

@@ -1,0 +1,9 @@
+﻿  Maincpp.cpp
+c:\users\roshanak\documents\visual studio 2015\projects\aon\aon\DataGenerator.h(38): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  26 of 448 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AON.vcxproj -> C:\Users\Roshanak\Documents\Visual Studio 2015\Projects\AON\x64\Release\AON.exe
+  AON.vcxproj -> C:\Users\Roshanak\Documents\Visual Studio 2015\Projects\AON\x64\Release\AON.pdb (Full PDB)
