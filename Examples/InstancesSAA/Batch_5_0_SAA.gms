@@ -1,0 +1,10 @@
+$call gams 5_0_SAA_Set_0
+$call gams 5_0_SAA_Set_1
+$call gams 5_0_SAA_Set_2
+$call gams 5_0_SAA_Set_3
+$call gams 5_0_SAA_Set_4
+$call gams 5_0_SAA_Set_5
+$call gams 5_0_SAA_Set_6
+$call gams 5_0_SAA_Set_7
+$call gams 5_0_SAA_Set_8
+$call gams 5_0_SAA_Set_9
