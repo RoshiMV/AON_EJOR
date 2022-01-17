@@ -5,4 +5,4 @@ Replication Package for ``Procurement portfolio planning for a newsvendor with s
 * Journal: European Journal of Operational Research 
 * Link: https://www.sciencedirect.com/science/article/pii/S0377221721004549
 
-Please look in ![Wiki](https://github.com/RoshiMV/AON_EJOR/wiki) for instructions about how to use this repository.
+Please look in [Wiki](https://github.com/RoshiMV/AON_EJOR/wiki) for instructions about how to use this repository.
